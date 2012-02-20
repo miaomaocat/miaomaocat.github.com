@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Miaomaocat's Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-02-20T15:16:25+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://miaomaocat.github.com/atom.xml" rel="self"/>
+  <link href="http://miaomaocat.github.com/"/>
+  <updated>2012-02-20T15:35:17+08:00</updated>
+  <id>http://miaomaocat.github.com/</id>
   <author>
     <name><![CDATA[Miaomaocat]]></name>
     
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[‘hello’]]></title>
-    <link href="http://yoursite.com/blog/2012/02/20/hello/"/>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://miaomaocat.github.com/blog/2012/02/20/hello/"/>
     <updated>2012-02-20T15:10:00+08:00</updated>
-    <id>http://yoursite.com/blog/2012/02/20/hello</id>
-    <content type="html"><![CDATA[
+    <id>http://miaomaocat.github.com/blog/2012/02/20/hello</id>
+    <content type="html"><![CDATA[<p>Hello World!</p>
+
+<blockquote><p>Hello World!</p></blockquote>
 ]]></content>
   </entry>
   
